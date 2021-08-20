@@ -1,12 +1,11 @@
-# Futurama Characters Fuse.js Search Demo
+# Based on [this](https://github.com/colbyfayock/my-futurama-characters)
 
-Learn how to create your own with [How to Add Search to a React App with Fuse.js](https://www.youtube.com/watch?v=GZl-yEz4_qw)
+Search function with fuse
 
 ## Getting started locally
-* `yarn install`
-* `yarn start`
-* 🚀
 
-## More tutorials and walkthroughs
-* [Follow me on Twitter](https://twitter.com/colbyfayock)
-* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+- yarn install and yarn start
+
+## Todo next
+
+- convert it to TS
